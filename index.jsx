@@ -20,7 +20,7 @@ const App = () => {
       </View>
 
       </ScrollView>
-    <View style={styles.heater}></View>
+    <View style={styles.header}></View>
 
     </View>
   )
